@@ -1,0 +1,4 @@
+Show user the quote of the day
+    - call an api
+    -get a quote
+    -show the quote of the day
